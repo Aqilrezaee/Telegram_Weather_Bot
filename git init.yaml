@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "اولین آپلود"
+git remote add origin 
+git push -u origin master
+git remote add origin https://github.com/Aqilrezaee/Telegram_Weather_Bot.git
+git config --global user.email "Aqilrezaee657@gmail.com"
